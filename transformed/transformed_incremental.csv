@@ -1,0 +1,10 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,total_price,price_range,region_group
+101,Alice,Laptop,1.5,900.0,2024-05-09,CENTRAL,1350.0,Medium,Central_Region
+102,Unknown_Customer,Laptop,1.0,300.0,2024-05-07,CENTRAL,300.0,Low,Central_Region
+103,Unknown_Customer,Laptop,1.0,600.0,2024-05-04,CENTRAL,600.0,Medium,Central_Region
+104,Unknown_Customer,Tablet,1.5,300.0,2024-05-26,CENTRAL,450.0,Low,Central_Region
+105,Heidi,Tablet,2.0,600.0,2024-05-21,NORTH,1200.0,Medium,Northern_Region
+106,Unknown_Customer,Laptop,2.0,600.0,2024-05-18,CENTRAL,1200.0,Medium,Central_Region
+107,Unknown_Customer,Tablet,1.0,600.0,2024-05-13,CENTRAL,600.0,Medium,Central_Region
+108,Unknown_Customer,Laptop,1.5,600.0,2024-05-11,CENTRAL,900.0,Medium,Central_Region
+109,Grace,Laptop,2.0,600.0,2024-05-29,CENTRAL,1200.0,Medium,Central_Region
