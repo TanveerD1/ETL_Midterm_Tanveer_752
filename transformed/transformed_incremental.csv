@@ -6,5 +6,5 @@ order_id,customer_name,product,quantity,unit_price,order_date,region,total_price
 105,Heidi,Tablet,2.0,600.0,2024-05-21,NORTH,1200.0,Medium,Northern_Region
 106,Unknown_Customer,Laptop,2.0,600.0,2024-05-18,CENTRAL,1200.0,Medium,Central_Region
 107,Unknown_Customer,Tablet,1.0,600.0,2024-05-13,CENTRAL,600.0,Medium,Central_Region
-108,Unknown_Customer,Laptop,1.5,600.0,2024-05-11,CENTRAL,900.0,Medium,Central_Region
+108,Unknown_Customer,Laptop,1.5,600.0,2024-05-11,,900.0,Medium,
 109,Grace,Laptop,2.0,600.0,2024-05-29,CENTRAL,1200.0,Medium,Central_Region
