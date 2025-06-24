@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,unit_price,order_date,region,total_price,region_group,customer_order_frequency,customer_tier
+1,Diana,Tablet,2.0,500.0,2024-01-20,SOUTH,1000.0,Southern_Region,24,VIP
+2,Eve,Laptop,2.0,250.0,2024-04-29,NORTH,500.0,Northern_Region,17,VIP
+3,Charlie,Laptop,2.0,250.0,2024-01-08,WEST,500.0,Western_Region,11,VIP
+4,Eve,Laptop,2.0,750.0,2024-01-07,WEST,1500.0,Western_Region,17,VIP
+5,Eve,Tablet,3.0,500.0,2024-03-07,SOUTH,1500.0,Southern_Region,17,VIP
